@@ -1,3 +1,9 @@
+
+_service_*.json
+_cv_*.json
+OLD
+OLD/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
