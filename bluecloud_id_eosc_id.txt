@@ -1,0 +1,2 @@
+date;service_name;bluecloud_id;eosc_id;eosc_title
+2022-06-13_17:31:09;phytoplankton_eovs;e5422ae1-4de6-4220-82f0-9869f2768ed3;blue-cloud.phytoplankton_eovs;Phytoplankton EOVs
